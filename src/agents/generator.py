@@ -1,4 +1,4 @@
-from langgraph.prebuilt import create_react_agent
+from langchain.agents import create_agent
 
 from src.llm import get_llm
 from src.tools.retrieval import retrieve_from_kb
@@ -35,7 +35,8 @@ retrieve_from_kb tool. You MUST follow these rules:
 
 def build_generator():
     """React agent that retrieves KB snippets and synthesizes the final report."""
-    llm = get_llm(temperature=0.2)
-    return create_react_agent(
-        llm, tools=[retrieve_from_kb], prompt=GENERATOR_SYSTEM_PROMPT
+    return create_agent(
+        model=get_llm(temperature=0.2),
+        tools=[retrieve_from_kb],
+        system_prompt=GENERATOR_SYSTEM_PROMPT,
     )
