@@ -71,6 +71,15 @@ uv run python main.py
 uv run python -m src.tools.retrieval "Apple market cap"
 ```
 
+## Sample output
+
+Example runs of the agent are in [`screenshots/`](./screenshots):
+
+| File | Scenario |
+|------|----------|
+| `Seatch_found_1.png`, `Search_found_2.png` | Query answered from the KB |
+| `Search_not_found_1.png`, `Search_not_found_2.png` | KB has no match - agent says so |
+
 ## Configuration
 
 Settings come from `.env` (see `.env.example`):
