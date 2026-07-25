@@ -1,0 +1,19 @@
+Apple Inc. (ticker: AAPL) is a technology company headquartered in Cupertino, California. As of 2024, Apple's market capitalization exceeded 3.4 trillion dollars, making it one of the most valuable companies in the world. The company was founded in 1976 and went public in 1980 at 22 dollars per share.
+
+Microsoft Corporation (MSFT) develops software, cloud services, and hardware. Microsoft's market cap reached approximately 3.1 trillion dollars in 2024. The company was founded in 1975 by Bill Gates and Paul Allen. Its Azure cloud platform is the second-largest cloud provider globally with about 25 percent market share.
+
+Nvidia Corporation (NVDA) designs GPUs for gaming and artificial intelligence. In 2024, Nvidia's revenue exceeded 130 billion dollars, driven largely by demand for AI chips. The stock price rose from about 150 dollars in early 2023 to over 800 dollars by mid-2024, before a 10-for-1 stock split in June 2024.
+
+Amazon.com Inc. (AMZN) operates e-commerce, cloud computing via AWS, and digital advertising. Amazon's 2023 annual revenue was 574 billion dollars. AWS generated approximately 100 billion dollars in revenue that year. Amazon was founded in 1994 by Jeff Bezos and is based in Seattle, Washington.
+
+Alphabet Inc. (GOOGL) is the parent company of Google. Alphabet's 2023 revenue was 307 billion dollars, with about 237 billion from advertising. Google Search holds roughly 91 percent of the global search engine market. The company employs over 180000 people worldwide.
+
+Tesla Inc. (TSLA) manufactures electric vehicles and energy storage products. Tesla delivered approximately 1.8 million vehicles in 2023. The company was founded in 2003 and is led by CEO Elon Musk. Tesla's market cap was around 800 billion dollars in early 2024.
+
+Berkshire Hathaway (BRK.A) is a conglomerate led by Warren Buffett. The Class A share price exceeded 620000 dollars per share in 2024, the highest-priced stock on US exchanges. Total revenue for 2023 was about 364 billion dollars across insurance, railroads, and utilities.
+
+JPMorgan Chase (JPM) is the largest bank in the United States by assets, holding approximately 3.9 trillion dollars in assets as of 2024. The 2023 net income was about 49 billion dollars. The company employs over 300000 people and is headquartered in New York City.
+
+Johnson & Johnson (JNJ) is a healthcare company producing pharmaceuticals and medical devices. The 2023 revenue was about 85 billion dollars. The company was founded in 1886 and is one of the components of the Dow Jones Industrial Average, added in 1932.
+
+Exxon Mobil (XOM) is an oil and gas supermajor. In 2023 the company reported revenue of 344 billion dollars and net income of 36 billion dollars. Exxon paid about 60 billion dollars in dividends during 2023. The company is based in Spring, Texas.
